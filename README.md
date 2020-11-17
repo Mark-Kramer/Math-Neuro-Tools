@@ -1,3 +1,5 @@
+# Math-Neuro-Tools
+
 ## Programming resources
 
 - [Case Studies in Neural Data Analysis - Python edition](https://mark-kramer.github.io/Case-Studies-Python/intro.html)
